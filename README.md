@@ -24,7 +24,7 @@ console.log(polishId()); //=> "yg0Ź3bgoŻęŹmcQcQ9nTPW2"
 
 ## API
 
-In default, the length of the id is 22.The length is a number between 23-50, otherwise it generates an id with a length of 22.
+In default, the length of the id is 22.The length is a number between 22-50, otherwise it generates an id with a length of 22.
 
 ### `polishId(length: number): string`
 
