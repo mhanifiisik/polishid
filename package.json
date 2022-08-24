@@ -1,6 +1,6 @@
 {
     "name": "polish-uuid",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "id generator with polish alphabet for javascript",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
